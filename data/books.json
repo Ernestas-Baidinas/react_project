@@ -1,0 +1,72 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "category": "Fiction",
+    "price": 10.99,
+    "cover": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.penguin.com.au%2Fcovers%2Foriginal%2F9781785150357.jpg&f=1&nofb=1&ipt=a681ae73acd6d55a38b4a2ce750b6c84a4a15d57406475cc83634340cb1a5d12&ipo=images"
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "category": "Science",
+    "price": 15.49,
+    "cover": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.penguin.com.au%2Fcovers%2Foriginal%2F9780857501004.jpg&f=1&nofb=1&ipt=29df9d5ac9d860c851d4077ea35969d8f9b5db1b80771ebb5696b23085972016&ipo=images"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "Fiction",
+    "price": 12.99,
+    "cover": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd28hgpri8am2if.cloudfront.net%2Fbook_images%2Fonix%2Fcvr9780743273565%2Fthe-great-gatsby-9780743273565_hr.jpg&f=1&nofb=1&ipt=10b3c17ace746109c4a658e4e6fb357bdfa446b42074bc32dcebcb5e5d1d930e&ipo=images"
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "category": "Biography",
+    "price": 14.99,
+    "cover": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.penguin.com.au%2Fcovers%2Foriginal%2F9780099511021.jpg&f=1&nofb=1&ipt=20b4f9794844bbe689857186a165c2404f6a0f2caa45b71735fb1b870504b9cc&ipo=images"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "category": "Science Fiction",
+    "price": 18.99,
+    "cover": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flibrary.jodan-design.com%2Fwp-content%2Fuploads%2F2014%2F02%2FDune-by-Frank-Herbert.jpg&f=1&nofb=1&ipt=1cae62d5830aadb5c1b67e2488ce9007f3a4f1bd745153772fa6279b0dd16d58&ipo=images"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "category": "Dystopian",
+    "price": 9.99,
+    "cover": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.thalia.media%2F07%2F-%2Fcbed699587704a8a9bc0a1e96b90493f%2F1984-gebundene-ausgabe-george-orwell.jpeg&f=1&nofb=1&ipt=58989181b11309133e1bca3d92fa741733ebd30bb6cd42628f93aefc056875d1&ipo=images"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Romance",
+    "price": 11.99,
+    "cover": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fd28hgpri8am2if.cloudfront.net%2Fbook_images%2Fonix%2Fcvr9781471134746%2Fpride-and-prejudice-9781471134746_hr.jpg&f=1&nofb=1&ipt=717dc7aba7aa2a59ecf07d440970dab91ecc4ae6ce82b0f73039c628887e4378&ipo=images"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "category": "Fiction",
+    "price": 10.49,
+    "cover": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.npr.org%2Fassets%2Fartslife%2Fbooks%2F2009%2F10%2Fcatcher_custom-853c2f7a4f9f9acaa8647dfdc7b9796555ad54a2-s6-c30.jpg&f=1&nofb=1&ipt=699fa7440b303b4f9dd05eddac922a00a864d7338dd2b3cd0b428116d75904e5&ipo=images"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "price": 13.95,
+    "cover": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.thenile.io%2Fr1000%2F9780007487288.jpg&f=1&nofb=1&ipt=ec9b746e2a85f0a790a8c79760cd8fe351f029a884b422b51a9767e87aa1b1ba&ipo=images"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Adventure",
+    "price": 16.99,
+    "cover": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.logobook.ru%2Fmake_nimage.php%3Fuid%3D11019904&f=1&nofb=1&ipt=bd3bc2d17643a4e9b556f0e02f802572552c359ada88892d9eb60593790ba1d0&ipo=images"
+  }
+]
